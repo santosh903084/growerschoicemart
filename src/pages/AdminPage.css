@@ -1,0 +1,65 @@
+/* AdminPage.css */
+.admin-table {
+    background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background to the table */
+    margin-top: 20px;
+  }
+  
+  .admin-table th, .admin-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  .admin-table tbody tr:hover td {
+    color: red;
+  }
+  
+  .admin-table th {
+    background-color: #f2f2f2;
+    font-style:italic;
+  }
+
+  .admin-deliver-button {
+    background-color: #e74c3c; /* Red color */
+    color: #fff; /* White text */
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  .admin-page-container {
+    background: url('../image3.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh; /* Adjust the height based on your design */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .admin-table {
+    background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background to the table */
+    margin-top: 20px;
+  }
+  .admin-table tbody tr:hover td,
+  .tooltip:hover {
+    color: red;
+  }
+  .tooltip ul li {
+   font-weight: bold; /* Set the font color for the cart items details in the tooltip */
+  }
+
+  .redirect-button {
+    margin: 20px; /* Adjust margin as needed */
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .redirect-button:hover {
+    background-color: #2980b9;
+  }
