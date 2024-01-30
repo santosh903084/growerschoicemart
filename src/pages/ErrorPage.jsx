@@ -13,6 +13,7 @@ export const ErrorPage = () => {
             alt="page-not-found"
             className="img-responsive error-img"
           />
+           Our Website Has been Updated please Click the Below Button
           <Link to="/" className="btn btn-solid pd-md">
             Go to Home Page
           </Link>
