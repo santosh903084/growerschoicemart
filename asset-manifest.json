@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/growerschoicemart/static/css/main.e64be71a.chunk.css",
+    "main.js": "/growerschoicemart/static/js/main.fb5a3cc4.chunk.js",
+    "main.js.map": "/growerschoicemart/static/js/main.fb5a3cc4.chunk.js.map",
+    "runtime-main.js": "/growerschoicemart/static/js/runtime-main.7abf6fab.js",
+    "runtime-main.js.map": "/growerschoicemart/static/js/runtime-main.7abf6fab.js.map",
+    "static/css/2.93ed2a48.chunk.css": "/growerschoicemart/static/css/2.93ed2a48.chunk.css",
+    "static/js/2.316f7ed8.chunk.js": "/growerschoicemart/static/js/2.316f7ed8.chunk.js",
+    "static/js/2.316f7ed8.chunk.js.map": "/growerschoicemart/static/js/2.316f7ed8.chunk.js.map",
+    "index.html": "/growerschoicemart/index.html",
+    "static/css/2.93ed2a48.chunk.css.map": "/growerschoicemart/static/css/2.93ed2a48.chunk.css.map",
+    "static/css/main.e64be71a.chunk.css.map": "/growerschoicemart/static/css/main.e64be71a.chunk.css.map",
+    "static/js/2.316f7ed8.chunk.js.LICENSE.txt": "/growerschoicemart/static/js/2.316f7ed8.chunk.js.LICENSE.txt",
+    "static/media/AdminPage.css": "/growerschoicemart/static/media/image3.c949ade8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7abf6fab.js",
+    "static/css/2.93ed2a48.chunk.css",
+    "static/js/2.316f7ed8.chunk.js",
+    "static/css/main.e64be71a.chunk.css",
+    "static/js/main.fb5a3cc4.chunk.js"
+  ]
+}
