@@ -204,7 +204,7 @@ export const products = [
     discount: 16,
     rating: 4.2,
     isBestSeller: false,
-    isOutOfStock: false,
+    isOutOfStock: true,
     categoryName: "Insectidies - పురుగుల మందు",
     productDetails: {
       brand: "Bayer CropScience Limited",
