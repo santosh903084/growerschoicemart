@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/growerschoicemart/static/css/main.e64be71a.chunk.css",
-    "main.js": "/growerschoicemart/static/js/main.c1dfa298.chunk.js",
-    "main.js.map": "/growerschoicemart/static/js/main.c1dfa298.chunk.js.map",
+    "main.js": "/growerschoicemart/static/js/main.fb5a3cc4.chunk.js",
+    "main.js.map": "/growerschoicemart/static/js/main.fb5a3cc4.chunk.js.map",
     "runtime-main.js": "/growerschoicemart/static/js/runtime-main.7abf6fab.js",
     "runtime-main.js.map": "/growerschoicemart/static/js/runtime-main.7abf6fab.js.map",
     "static/css/2.93ed2a48.chunk.css": "/growerschoicemart/static/css/2.93ed2a48.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.93ed2a48.chunk.css",
     "static/js/2.316f7ed8.chunk.js",
     "static/css/main.e64be71a.chunk.css",
-    "static/js/main.c1dfa298.chunk.js"
+    "static/js/main.fb5a3cc4.chunk.js"
   ]
 }
